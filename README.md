@@ -1,5 +1,5 @@
 - Hi , I’m Abdel-Rahman Saied
-- 
+- Software engineer | Machine Learning | Deep learning
 - I’m currently work as Linux System engineer , python developer and graphic designer 
 - I’m currently learning Artificial intelligence...
 - How to reach me via linkedin : https://www.linkedin.com/in/abdel-rahman-saied/ 
