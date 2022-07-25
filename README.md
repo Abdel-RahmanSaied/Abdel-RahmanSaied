@@ -1,13 +1,25 @@
 # 💫 About Me:
-Hi there, I'm Abdel-Rahman Saied 
+**Hi there, I'm Abdel-Rahman Saied** 
 - Software Engineer 
-- Python Developer ( Backend[django , Flask] , Desktop Application[PyQt5]  , Web Scraping [ beatifulSoup ] )
-- Artificial intelligence ( Machine Learning , Deep Learning , Computer Vision ) 
-- Microcontrollers ( Raspberrypi )
+  - Python Developer 
+    - Backend 
+      - django 
+      - Flask 
+    - Desktop Application 
+      - PyQt5  
+    - Web Scraping 
+      - beatifulSoup  
+  - Artificial intelligence 
+    - Machine Learning 
+    - Deep Learning 
+    - Computer Vision 
+  - Microcontrollers 
+    - Raspberrypi 
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Abdelrahman.Saied20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdel-rahman-saied/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdelrahman.Saied20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdel-rahman-saied/) 
 
 # 💻 Tech Stack:
 
