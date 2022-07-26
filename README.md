@@ -22,8 +22,10 @@
 ## 📫 Email :  **abdelrahmansaied080@gmail.com**
 
 ## 🌐 Connect with me :
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdelrahman.Saied20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdel-rahman-saied/) 
+
+[![WhatsApp](https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](http://Wa.me/201067840227)
+[![Facebook](https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Abdelrahman.Saied20)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdel-rahman-saied/) 
 
 # 💻 Tech Stack:
 
