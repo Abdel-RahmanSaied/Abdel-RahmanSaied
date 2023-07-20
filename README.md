@@ -19,8 +19,7 @@
   - Microcontrollers 
     - Raspberrypi 
 
-## 📫 Personal Email :  **abdelrahmansaied080@gmail.com**
-## 📧 Business Email :  **abdelrhman.saied@cloudev-solutions.com**
+## 📫 Email :  **abdelrahmansaied080@gmail.com**
 
 
 ## 🌐 Connect with me :
