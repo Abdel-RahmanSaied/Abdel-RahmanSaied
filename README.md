@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm Abdel-Rahman Saied</h1>
-<h3 align="center">Software Engineer | Python Developer</h3>
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There! 👋 , I'm Abdel-Rahman Saied
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a Software Engineer | Python Developer | Backend Developer from <b>Egypt</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 # 💫 About Me:
 
