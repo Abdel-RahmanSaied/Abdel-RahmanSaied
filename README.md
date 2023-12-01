@@ -51,9 +51,30 @@
   </samp>
 </p>
 
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Abdel-RahmanSaied&label=Profile%20views&color=0e75b6&style=flat" alt="Abdel-Rahman Saied" /> 
+</p>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+      
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
 
 
 #  About Me:
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 
 - Software Engineer 
   - Python Developer 
@@ -62,14 +83,21 @@
       - Flask 
     - Desktop Application 
       - PyQt5  
-    - Web Scraping 
-      - beatifulSoup  
-  - Artificial intelligence 
-    - Machine Learning 
-    - Deep Learning 
-    - Computer Vision 
+    - Web Scraping
+      - beatifulSoup
+  - Devops
+    - Docker
+    - Nginx
+    - CI & CD
+  - Cloud
+    - AWS
+    - GCP
+    - Azure
+    - Digital Ocean
   - Microcontrollers 
-    - Raspberrypi 
+    - Raspberrypi
+
+
 
 
 
