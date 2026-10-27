@@ -9,6 +9,7 @@
   <a href="https://asaied.dev">Website</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/abdel-rahman-saied">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:abdelrahmansaied080@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://twitter.com/AbdoSaied2000">X / Twitter</a> &nbsp;·&nbsp;
   <a href="https://github.com/Fendix-app/Fendix">Fendix</a>
 </p>
 
