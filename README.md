@@ -31,7 +31,7 @@ I lead engineering teams and build backend systems with **Go and Python**, with 
 
 [**Fendix**](https://github.com/Fendix-app/Fendix) is built with Go and Python. It helps developers investigate security findings with supporting evidence and integrate scanning into pull requests and CI pipelines. Available under the **MIT license**.
 
-**[Explore Fendix →](https://github.com/Fendix-app/Fendix)** &nbsp;·&nbsp; [Documentation](https://github.com/Fendix-app/Fendix#readme) &nbsp;·&nbsp; [Issues](https://github.com/Fendix-app/Fendix/issues)
+**[Visit Fendix →](https://fendix.dev)** &nbsp;·&nbsp; [Source code](https://github.com/Fendix-app/Fendix) &nbsp;·&nbsp; [Documentation](https://github.com/Fendix-app/Fendix#readme) &nbsp;·&nbsp; [Issues](https://github.com/Fendix-app/Fendix/issues)
 
 ## What I focus on
 
