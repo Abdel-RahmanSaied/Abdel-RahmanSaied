@@ -1,219 +1,45 @@
+# Abdel-Rahman Saied
 
-<!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
+**Software Team Lead / Senior Software Engineer**
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+I lead engineering teams and build backend systems with **Go and Python**, with a focus on cloud infrastructure and production architecture. I care about clear technical decisions, maintainable code, and reliable delivery—from system design through deployment and operation.
 
+[LinkedIn](https://linkedin.com/in/abdel-rahman-saied) · [Email](mailto:abdelrahmansaied080@gmail.com) · [GitHub](https://github.com/Abdel-RahmanSaied)
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There! 👋 , I'm Abdel-Rahman Saied
-        </samp>
-</h3>
+## What I focus on
 
+- **Engineering leadership:** technical direction, code reviews, mentoring, and helping teams turn requirements into dependable software.
+- **Backend systems:** APIs, service boundaries, data modeling, integrations, and performance.
+- **Production architecture:** designing for reliability, security, maintainability, and growth.
+- **Cloud and delivery:** containerized services, automated deployments, and the infrastructure that keeps applications running.
+- **Open source:** building practical developer tools through Fendix.
 
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am a Software Engineer | Python Developer | Backend Developer from <b>Egypt</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+## Core technologies
 
+| Area | Technologies |
+| --- | --- |
+| Languages | Go, Python |
+| Backend | Django, FastAPI, Flask, REST APIs |
+| Data | PostgreSQL, MySQL, Redis, MongoDB |
+| Cloud | AWS, Google Cloud, Azure, DigitalOcean |
+| Infrastructure & delivery | Docker, Nginx, Linux, Git, CI/CD |
 
-<p align="center">
-<!--  <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://linkedin.com/in/abdel-rahman-saied" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/AbdoSaied2000" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://facebook.com/Abdelrahman.Saied20" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="saied"  />
-  </a> 
- <a href="http://Wa.me/201067840227" target="_blank">
-  <img src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="saied"  />
-  </a> 
-</p>
-<br />
-<p align="center"> 
-  <samp>
-    <br>
-    「 Contact me at <b>abdelrahmansaied080@gmail.com</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+## Open source · Fendix
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Abdel-RahmanSaied&label=Profile%20views&color=0e75b6&style=flat" alt="Abdel-Rahman Saied" /> 
-</p>
+[**Fendix**](https://github.com/Fendix-app/Fendix) is an open-source security scanner that brings static analysis (SAST) and runtime testing (DAST) into one workflow.
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-      
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+Built with Go and Python, it helps developers investigate security findings with supporting evidence and integrate scanning into pull requests and CI pipelines. The project is available under the MIT license.
 
-<br>
+[Explore the source](https://github.com/Fendix-app/Fendix) · [Read the documentation](https://github.com/Fendix-app/Fendix#readme) · [Report an issue](https://github.com/Fendix-app/Fendix/issues)
 
+[Browse all my repositories →](https://github.com/Abdel-RahmanSaied?tab=repositories)
 
-#  About Me:
+## Connect
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+I'm happy to connect about engineering leadership, backend architecture, cloud systems, and open-source tooling.
 
-
-- Software Engineer 
-  - Python Developer 
-    - Backend 
-      - django 
-      - Flask 
-    - Desktop Application 
-      - PyQt5  
-    - Web Scraping
-      - beatifulSoup
-  - Devops
-    - Docker
-    - Nginx
-    - CI & CD
-  - Cloud
-    - AWS
-    - GCP
-    - Azure
-    - Digital Ocean
-  - Microcontrollers 
-    - Raspberrypi
-
-
-
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,js,nodejs,flask,fastapi,express" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=qt,js,html,css,bootstrap,tailwind,materialui" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,firebase,cloudflare,vercel" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,ubuntu,figma,xd" />
-  </a>
-</p>
-
-- DevOps Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,ansible" />
-  </a>
-</p>
-
-- Automation Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium" />
-  </a>
-</p>
-
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<br/>
-<hr/>
-<br/>
-
-## Top Open Source 
-[![Eazy Downloader](https://github-readme-stats.vercel.app/api/pin/?username=Abdel-RahmanSaied&repo=Eazy_Downloader&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abdel-RahmanSaied/Eazy_Downloader.git)
-[![Media Encryptor](https://github-readme-stats.vercel.app/api/pin/?username=Abdel-RahmanSaied&repo=mediaSecure&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abdel-RahmanSaied/mediaSecure.git)
-[![Illminor Platform](https://github-readme-stats.vercel.app/api/pin/?username=Abdel-RahmanSaied&repo=Illminor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/alsiam/alsiam](https://github.com/Abdel-RahmanSaied/Illminor.git))
-[![Django MVC Template](https://github-readme-stats.vercel.app/api/pin/?username=Abdel-RahmanSaied&repo=Django_MVC_Template&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abdel-RahmanSaied/Django_MVC_Template)
-
-<p align="left">
-  <a href="https://github.com/Abdel-RahmanSaied?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-
-
-<h2 align="center">
-             <samp> Github Stats </samp>
-</h2>
-
-
-<p align="center">
-  <a href="https://github.com/Abdel-RahmanSaied">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdel-RahmanSaied&theme=radical&border=7F3FBF&background=0D1117" alt="Abdel-RahmanSaied's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Abdel-RahmanSaied">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdel-RahmanSaied&theme=radical" alt="Abdel-RahmanSaied's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/Abdel-RahmanSaied"><img alt="Abdel-Rahman Saied's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Abdel-RahmanSaied&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Abdel-RahmanSaied"><img alt="Abdel-RahmanSaied's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abdel-RahmanSaied&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-![Abdel-Rahman Saied's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdel-RahmanSaied&custom_title=Abdel-Rahman%20Saied's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdel-RahmanSaied&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Abdel-RahmanSaied&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<a href="https://komarev.com/ghpvc/?username=Abdel-RahmanSaied">
-  <img align="center" src="https://komarev.com/ghpvc/?username=Abdel-RahmanSaied&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
+- [LinkedIn](https://linkedin.com/in/abdel-rahman-saied)
+- [abdelrahmansaied080@gmail.com](mailto:abdelrahmansaied080@gmail.com)
+- [X / Twitter](https://twitter.com/AbdoSaied2000)
+- [Facebook](https://facebook.com/Abdelrahman.Saied20)
+- [WhatsApp](https://wa.me/201067840227)
