@@ -21,6 +21,12 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white" alt="AWS">
 </p>
 
+<p align="center">
+  <a href="https://hub.xerj.org/contributors/Abdel-RahmanSaied">
+    <img src="https://hub.xerj.org/contributors/Abdel-RahmanSaied/badge.svg" alt="XERJ Corpus Hub contributor">
+  </a>
+</p>
+
 ---
 
 I lead engineering teams and build backend systems with **Go and Python**, with a focus on cloud infrastructure and production architecture. I care about clear technical decisions, maintainable code, and reliable delivery—from system design through deployment and operation.
